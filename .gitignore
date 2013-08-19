@@ -58,6 +58,11 @@ ehthumbs.db
 Thumbs.db
 
 # Project Specific file
-playWithNumbers.sc
-playWithNthPrime.sc
-playWithPrimeFactorization.sc
+*.[Ww]orksheet
+[Pp]layWithNumbers.sc
+[Pp]layWithNthPrime.sc
+[Pp]layWithPrimeFactorization.sc
+[Pp]layWithNumbers.scala
+[Pp]layWithNthPrime.scala
+[Pp]layWithPrimeFactorization.scala
+

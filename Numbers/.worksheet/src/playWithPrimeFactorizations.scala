@@ -45,7 +45,6 @@ object playWithPrimeFactorizations {;import org.scalaide.worksheet.runtime.libra
   PrimeFactorization(12545)
   PrimeFactorization(12549)
   
-  PrimeFactorization(1002541)
   TimingBenchmark(PrimeFactorization(1002541))
   
   */

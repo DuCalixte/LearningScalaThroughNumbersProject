@@ -38,15 +38,15 @@ object playWithPrimeFactorizations {
   	//commit.map(n=>val (x,y) = n print(x + "^" + y + " + "))
   }                                               //> TimingBenchmark: (f: => List[(Int, Int)])Unit
   
-  /* The Tests */
+  /* The Tests
 
 
-	PrimeFactorization(5)                     //> res0: List[(Int, Int)] = List((5,1))
-  PrimeFactorization(24)                          //> res1: List[(Int, Int)] = List((2,3), (3,1))
-  PrimeFactorization(12545)                       //> res2: List[(Int, Int)] = List((5,1), (13,1), (193,1))
-  PrimeFactorization(12549)                       //> res3: List[(Int, Int)] = List((3,1), (47,1), (89,1))
+	PrimeFactorization(5)
+  PrimeFactorization(24)
+  PrimeFactorization(12545)
+  PrimeFactorization(12549)
   
-  TimingBenchmark(PrimeFactorization(1002541))    //> It took: 69646 milliseconds to obtain List((17,2), (3469,1))-
+  TimingBenchmark(PrimeFactorization(1002541))
   
-  
+  */
 }
